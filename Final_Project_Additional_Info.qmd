@@ -1,0 +1,13 @@
+---
+title: "Final Project Memo"
+format: html
+editor: visual
+---
+
+I created three separate tabs to explore different aspects of the dataset. The first tab, "Coop mode", is to explore all the different video games and their sales in various regions depending on several factors. "Survival mode" is used to explore how one video game's sales compares against all the other video games' sales. "PvP mode" is used to compare two different games' sales against one another. Although each tab is similar in what they explore, each one differs in what aspect of the dataset they address depending on what the user wants to explore. 
+
+<br>
+<br>
+<br>
+
+"Coop mode" addresses all the video games, and as such it includes widgets addressing the years, regions, publishers, genres, and outliers in the data that the user can filter out to explore all the games within the specific category they wish to look at. <br> "Survival mode", on the other hand, has the same widgets addressing year, platform, publisher, and genre, but because it is addressing a specific game it looks at only the specific category the game belongs to, or all games in that specific category itself. <br> "Pvp mode" is the simplest in terms of widgets, because the only two options that matter are the two games the user has chosen. The specific publisher/platform/genre doesn't matter for this tab, because the only category being explored are sales for the two video games. (Also for Pvp mode I used the colors grey and gold simply because they were the most neutral, contrasting, and pleasing colors to look at.)
